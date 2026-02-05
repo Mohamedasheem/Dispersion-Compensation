@@ -26,7 +26,6 @@ Loss = A_{TF} \cdot L_{TF} + A_{DCF} \cdot L_{DCF}
 Therefore, given target values for chromatic dispersion and attenuation loss plus specifications of the transmitter, fiber, and receiver, one can determine the lengths of the transmission fiber and the DCF by solving the above two equations simultaneously.
 
 ---
-
 ## Specifications
 - **Output power:** 0 dBm  
 - **Spectral width:** To be determined  
@@ -42,7 +41,6 @@ Therefore, given target values for chromatic dispersion and attenuation loss plu
 - Attenuation: 0.5 dB/km at 1550 nm  
 
 ---
-
 ## Calculations
 1. Determine the maximum allowable fiber loss  
 2. Determine the maximum allowable chromatic dispersion  
@@ -96,7 +94,6 @@ The main physical components of this layout are:
  
 
 ---
-
 ## Conclusions
 Discuss the effectiveness of dispersion-compensating fiber and the ability of the calculations to engineer a viable system.
 
